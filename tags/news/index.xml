@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Nexus Food Delivery</title>
+    <link>https://blog.nexusfooddelivery.com/tags/news/</link>
+    <description>Recent content in News on Nexus Food Delivery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2018 Nexus Heights</copyright>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.nexusfooddelivery.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>https://blog.nexusfooddelivery.com/post/hello-world/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.nexusfooddelivery.com/post/hello-world/</guid>
+      <description>Welcome to the official blog of Nexus Food Delivery. We&amp;rsquo;re excited to get to know you all and start providing our services to the fine people of Cookeville, TN. It&amp;rsquo;s been a long time in the making, but it still needs a bit longer in the fires of software development to be fully ready.
+Please keep an eye on this blog, or our social media links at the bottom of the page for more information leading up to the launch of Nexus Food Delivery.</description>
+    </item>
+    
+  </channel>
+</rss>
