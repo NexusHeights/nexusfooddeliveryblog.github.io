@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.nexusfooddelivery.com/post/new-partners-jul-12/</loc>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.nexusfooddelivery.com/post/hello-world/</loc>
     <lastmod>2018-07-04T00:00:00+00:00</lastmod>
   </url>
@@ -20,25 +25,31 @@
   
   <url>
     <loc>https://blog.nexusfooddelivery.com/tags/news/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.nexusfooddelivery.com/categories/news/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.nexusfooddelivery.com/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.nexusfooddelivery.com/tags/partners/</loc>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.nexusfooddelivery.com/post/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
